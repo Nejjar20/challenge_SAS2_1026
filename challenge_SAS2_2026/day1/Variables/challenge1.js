@@ -1,0 +1,10 @@
+const pseudo="ShadowX";
+console.log("Pseudo : " + pseudo);
+const niveau=12;
+console.log("Niveau : " + niveau); 
+const age=21;
+console.log("Age : " + age);
+const score=4500;
+console.log("Score : " + score); 
+const Pays="Maroc";
+console.log("Pays : " + Pays);                 
